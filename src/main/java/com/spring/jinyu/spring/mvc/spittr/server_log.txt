@@ -1,0 +1,7 @@
+[18540] 28 Aug 20:22:31.169 * Redis 3.2.100 (00000000/0) 64 bit, standalone mode, port 6379, pid 18540 ready to start.
+[18540] 28 Aug 20:22:31.169 # Server started, Redis version 3.2.100
+[18540] 28 Aug 20:22:31.169 * The server is now ready to accept connections on port 6379
+[18540] 28 Aug 20:37:32.020 * 1 changes in 900 seconds. Saving...
+[18540] 28 Aug 20:37:32.020 * Background saving started by pid 13740
+[18540] 28 Aug 20:37:32.676 # fork operation complete
+[18540] 28 Aug 20:37:32.785 * Background saving terminated with success
